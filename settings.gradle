@@ -1,0 +1,2 @@
+rootProject.name = "Task10sep"
+include ':app'
